@@ -30,5 +30,9 @@ The recommendation system is applicable in many real-world domains. It is widely
 
 In conclusion, this project successfully demonstrates the implementation of an AI-based recommendation system using Apache Mahout in Java. It highlights key concepts such as collaborative filtering, similarity computation, and personalized recommendations. The system is efficient, scalable, and reflects the working principles of real-world intelligent applications. This project provides a strong foundation for understanding machine learning-based recommendation systems and their practical applications.
 
+#OUTPUT
+
+<img width="1482" height="1064" alt="Image" src="https://github.com/user-attachments/assets/b341b910-a905-4eb0-b6d2-9fcacbb13013" />
+
 
 
